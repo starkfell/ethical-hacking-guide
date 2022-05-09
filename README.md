@@ -167,6 +167,6 @@ Reg Add "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects" 
 ```
 
 ```powershell
-$script = $(wget https://gist.githubusercontent.com/starkfell/9915cdd83c2b4af13aa18fa186d5acd5/raw/1bc3dace8d28abe27c77e59be013e14d2f872228/win10.custom.ps1 -UseBasicParsing).Content ; Invoke-Expression $script
+$script = $(wget https://raw.githubusercontent.com/starkfell/ethical-hacking-guide/main/win10.custom.ps1 -UseBasicParsing).Content ; Invoke-Expression $script
 
 ```
