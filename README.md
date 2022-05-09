@@ -6,7 +6,7 @@ In Under 6 hours is the goal.
 
 ## A Day in the Life of an Ethical Hacker
 
-Let's not even do this. This is just the presentation masturbation.
+We'll be leaving this section out.
 
 </br>
 
