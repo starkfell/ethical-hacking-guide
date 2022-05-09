@@ -1,6 +1,6 @@
-# Ethical Hacking in 6 hours
+# Ethical Hacking Guide 
 
-That's the goal.
+In Under 6 hours is the goal.
 
 <br/>
 
