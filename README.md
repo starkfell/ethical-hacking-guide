@@ -1,6 +1,6 @@
 # Ethical Hacking in 6 hours
 
-The goal is to shrink this - https://www.youtube.com/watch?v=fNzpcB7ODxQ into a 6 hour video. All Killer, No Filler!
+That's the goal.
 
 <br/>
 
