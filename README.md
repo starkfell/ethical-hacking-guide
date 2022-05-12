@@ -170,3 +170,8 @@ Reg Add "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects" 
 $script = $(wget https://raw.githubusercontent.com/starkfell/ethical-hacking-guide/main/win10.custom.ps1 -UseBasicParsing).Content ; Invoke-Expression $script
 
 ```
+
+https://communities.vmware.com/t5/VMware-Workstation-Pro/VMware-Workstation-does-not-support-nested-virtualization-on/td-p/1864217
+
+
+. . .
